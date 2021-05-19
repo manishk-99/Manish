@@ -4,6 +4,6 @@
   <a href="https://www.instagram.com/beingmanishh/"><img height="18" width="18" src="./instagram.svg" /></a>
   <a href="https://twitter.com/Beingmanishh"><img height="18" width="18" src="./twitter.svg" /></a>
   <a href="mailto:manishnitsgr18@gmail.com"><img height="18" width="18" src="./gmail.svg" /></a><br><br>
-  <b><a href="https://drive.google.com/file/d/1Jfx2NI9tJZhDZpfCCCLNvH7dU-Lawdnc/view?usp=sharing">My Resume</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1mHl1KLXyyTpwvRRY37sA73A8FFt1_Mw1/view?usp=sharing">My Resume</a></b><br>
   <i>while( ! ( succeed = try() ) );  ☢️</i>
 </p>
